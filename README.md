@@ -11,3 +11,5 @@ This is a solution to the QR code component challenge on Frontend Mentor.
 ### Continued development
 
 I used a desktop-first approach, instead of mobile-first. I couldn't resize properly, so I'll be back for modification. 
+
+Update: I solved it. 
